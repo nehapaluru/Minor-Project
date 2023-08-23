@@ -21,7 +21,7 @@ class Expense {
 
     @Override
     public String toString() {
-        return description + " - $" + amount;
+        return description + " - ₹" + amount;
     }
 }
 
